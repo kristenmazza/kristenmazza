@@ -11,6 +11,7 @@
 
 Project | Description
 --- | ---
+| <img src="https://raw.githubusercontent.com/kristenmazza/battleship/main/src/images/battleship-demo.gif" alt="Battleship demo" style="width: 300px;"/> | **Battleship** <br/><br/> Single-player game based on the classic Battleship strategic board game. Created following concept of Test Driven Development. <br/><br/> [Live Demo](https://kristenmazza.github.io/battleship/) :point_left:
 | <img src="https://github.com/kristenmazza/weather-app/raw/main/weather-app-ss.png" alt="Weather app screenshot" style="width: 300px;"/> | **Weather App** <br/><br/> Search cities worldwide to get current weather information, with ability to switch between imperial and metric systems. Uses public API to retrieve data. <br/><br/> [Live Demo](https://kristenmazza.github.io/weather-app/) :point_left:
 | <img src="https://github.com/kristenmazza/todo-list/raw/main/todo-list-demo.gif" alt="Todo list demo" style="width: 300px;"/> | **TODO List** <br/><br/> Organize and keep track of tasks by saving todo items in custom folders; viewing, editing, deleting, and checking off todo items; and filtering todo items. <br/><br/> [Live Demo](https://kristenmazza.github.io/todo-list/) :point_left:
 | <img src="https://i.ibb.co/B2XLpCC/tic-tac-toe-demo.gif" alt="Tic-tac-toe" style="width: 300px;"/> | **Tic-Tac-Toe** <br/><br/> A tic-tac-toe game in which players can enter their names, take turns and make valid plays. Written with HTML, CSS, and JavaScript. <br/><br/> [Live Demo](https://kristenmazza.github.io/tic-tac-toe/) :point_left:
