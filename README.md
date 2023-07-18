@@ -11,6 +11,7 @@
 
 Project | Description
 --- | ---
+| <img src="https://github.com/kristenmazza/cv-application/raw/main/src/assets/cv-app-screenshot.png" alt="Battleship demo" style="width: 300px;"/> | **CV Application** <br/><br/> A curriculum vitae (CV) creator using React to create the user interface. <br/><br/> [Live Demo](https://kristenmazza-cv-application.netlify.app/) :point_left:
 | <img src="https://raw.githubusercontent.com/kristenmazza/battleship/main/src/images/battleship-demo.gif" alt="Battleship demo" style="width: 300px;"/> | **Battleship** <br/><br/> Single-player game based on the classic Battleship strategic board game. Created following concept of Test Driven Development. <br/><br/> [Live Demo](https://kristenmazza.github.io/battleship/) :point_left:
 | <img src="https://github.com/kristenmazza/weather-app/raw/main/weather-app-ss.png" alt="Weather app screenshot" style="width: 300px;"/> | **Weather App** <br/><br/> Search cities worldwide to get current weather information, with ability to switch between imperial and metric systems. Uses public API to retrieve data. <br/><br/> [Live Demo](https://kristenmazza.github.io/weather-app/) :point_left:
 | <img src="https://github.com/kristenmazza/todo-list/raw/main/todo-list-demo.gif" alt="Todo list demo" style="width: 300px;"/> | **TODO List** <br/><br/> Organize and keep track of tasks by saving todo items in custom folders; viewing, editing, deleting, and checking off todo items; and filtering todo items. <br/><br/> [Live Demo](https://kristenmazza.github.io/todo-list/) :point_left:
