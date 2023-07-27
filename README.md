@@ -3,7 +3,6 @@
 - 🔭 I’m currently working through curriculum from [The Odin Project](https://www.theodinproject.com/).
 - 🌱 I’m currently learning full stack web development.
 - 👯 I’m looking to collaborate on open-source software, particularly if it relates to speech-language pathology or linguistics.
-- 💬 Ask me about Flexbox!
 - 📫 How to reach me: https://www.linkedin.com/in/kristenmazza/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: In my free time, you can find me timing subtitles on Viki. You can learn how to, too: https://www.viki.com/tv/1863c-ninja-segging-subbing-academy
@@ -11,6 +10,7 @@
 
 Project | Description
 --- | ---
+| <img src="https://github.com/kristenmazza/memory-card/raw/main/public/images/demo.gif" alt="Memory Card demo" style="width: 300px;"/> | **Memory Game** <br/><br/> A memory game featuring languages around the world. Created using React. <br/><br/> [Live Demo](https://kristenmazza-memory-game.netlify.app/) :point_left:
 | <img src="https://github.com/kristenmazza/cv-application/raw/main/src/assets/cv-app-screenshot.png" alt="Battleship demo" style="width: 300px;"/> | **CV Application** <br/><br/> A curriculum vitae (CV) creator using React to create the user interface. <br/><br/> [Live Demo](https://kristenmazza-cv-application.netlify.app/) :point_left:
 | <img src="https://raw.githubusercontent.com/kristenmazza/battleship/main/src/images/battleship-demo.gif" alt="Battleship demo" style="width: 300px;"/> | **Battleship** <br/><br/> Single-player game based on the classic Battleship strategic board game. Created following concept of Test Driven Development. <br/><br/> [Live Demo](https://kristenmazza.github.io/battleship/) :point_left:
 | <img src="https://github.com/kristenmazza/weather-app/raw/main/weather-app-ss.png" alt="Weather app screenshot" style="width: 300px;"/> | **Weather App** <br/><br/> Search cities worldwide to get current weather information, with ability to switch between imperial and metric systems. Uses public API to retrieve data. <br/><br/> [Live Demo](https://kristenmazza.github.io/weather-app/) :point_left:
