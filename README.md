@@ -1,4 +1,5 @@
-### Hi there 👋
+### About Me
+Hi there 👋
 
 - 🔭 I’m currently working through curriculum from [The Odin Project](https://www.theodinproject.com/).
 - 🌱 I’m currently learning full stack web development.
@@ -7,6 +8,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: In my free time, you can find me timing subtitles on Viki. You can learn how to, too: https://www.viki.com/tv/1863c-ninja-segging-subbing-academy
 
+### Current and Past Projects
 
 Project | Description
 --- | ---
@@ -24,3 +26,4 @@ Additional Projects
 - [CV Application](https://kristenmazza-cv-application.netlify.app/) 
 - [Weather App](https://kristenmazza.github.io/weather-app/) 
 - [Library](https://kristenmazza.github.io/library/)
+
