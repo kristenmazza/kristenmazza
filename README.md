@@ -1,12 +1,6 @@
-### About Me
 Hi there 👋
 
-- 🔭 I’m currently working through curriculum from [The Odin Project](https://www.theodinproject.com/).
-- 🌱 I’m currently learning full stack web development.
-- 👯 I’m looking to collaborate on open-source software, particularly if it relates to speech-language pathology or linguistics.
-- 📫 How to reach me: https://www.linkedin.com/in/kristenmazza/
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: In my free time, you can find me timing subtitles on Viki. You can learn how to, too: https://www.viki.com/tv/1863c-ninja-segging-subbing-academy
+GitHub hosts the code for all of my personal projects. If you would like to learn more about me or see my portfolio, visit my website: [kristenmazza.dev](https://kristenmazza.dev/) 
 
 ### Current and Past Projects
 
